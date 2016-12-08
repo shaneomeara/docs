@@ -1,0 +1,92 @@
+
+
+This is a breakdown of the current content. 
+Along with comments and suggestions for changes.
+
+–––––
+/////
+–––––
+
+NAVIGATION
+
+<menu> Home / About / Book / News / Contact / Language
+
+<menu> Home / About / Services / Gallery / Contact / Team / Language
+
+
+–––––
+
+HERO SECTION
+
+<img> Image Carousel
+
+<button> CTA (Book Now)
+
+–––––
+
+ABOUT
+
+<h1> Shanghai's One and Only Traditional Style Barber
+
+<p> We opened Doc Guthrie’s because we felt Shanghai needed a place where men could go and get a quick hair cut in surroundings that suited us.No pop music in the background, waiting on perms and curls and fancy hair washing to be finished. Somewhere we can go in, drink a beer or whiskey, talk shit, get a cut and leave looking better than we entered. We’re in the North Jingan area on Kangding lu, on the same block as Sailors, Sushi O, Malabar, Enoterra, and Lab. Feel free to make an appointment or just walk in.
+
+<button> CTA (Book Now)
+
+–––––
+
+DIVIDER
+
+'DOC'S WORDS OF WISDOM'
+
+'Follow the Golden Rule'
+Doc Guthrie
+
+-----
+
+SERVICES
+
+<ul>
+
+Haircut / 
+Straight Razor Shave /
+Haircutr & Shave / 
+Buzzcut /
+Back & Sides /
+Clipper Beard Trim /
+Boys /
+Haircut & Beard Trim /
+Straight Razor Beard Trim /
+Wash & Style / 
+Head Shave /
+
+<p> All prices include one complimentary Jameson Whiskey, bottle of Asahi (must be over 18) or soft drink
+
+-----
+
+NEWS
+
+<img>
+
+NB: Not updated often - better to just include Social Media links in contact below?
+
+–––––
+
+GALLERY
+
+–––––
+
+CONTACT
+
+Email / Mobile / Address / Opening Hours / Available for Walkins & Appointments
+
+–––––
+
+TEAM
+
+<p>Thanks for stopping by...
+
+Add profile photo + Bio of founders
+
+Information about team and recruitment
+
+Special Events & Sponsorship
