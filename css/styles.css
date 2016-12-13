@@ -1,0 +1,60 @@
+body {
+  background-color: #303030;
+}
+
+h1 {
+  color: grey;
+  font-size: 200%;
+}
+
+h3 {
+  color: grey;
+  text-align: center;
+}
+
+.info-section {
+  background-color: black;
+  height: 200px;
+  width: auto;
+}
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Georgia;
+  color: #cccccc;
+  font-size: 60px;
+  padding: 50px 100px 50px 100px;
+  border: solid #cccccc 6px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d4d3cd;
+  text-decoration: none;
+}
+
+–––––
+
+.bg-image {
+    position: relative;
+}
+.bg-image img {
+    display: block;
+    width: 100%;
+    max-width: 1200px; /* corresponds to max height of 450px */
+    margin: 0 auto;
+}
+.bg-image btn{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+}
+.nav, .main {
+    background-color: #f6f6f6;
+    text-align: center;
+}
