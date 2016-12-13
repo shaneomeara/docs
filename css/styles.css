@@ -1,4 +1,61 @@
+/* CSS RESET */
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
 body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* END CSS RESET */
+
+/* MY CSS */
+
+body {
+  font-family: helvetica, sans-serif;
+  text-align: center;
   background-color: #303030;
 }
 
@@ -25,7 +82,7 @@ h3 {
   font-family: Georgia;
   color: #cccccc;
   font-size: 60px;
-  padding: 50px 100px 50px 100px;
+  padding: 50px 50px 50px 50px;
   border: solid #cccccc 6px;
   text-decoration: none;
 }
@@ -33,28 +90,4 @@ h3 {
 .btn:hover {
   background: #d4d3cd;
   text-decoration: none;
-}
-
-–––––
-
-.bg-image {
-    position: relative;
-}
-.bg-image img {
-    display: block;
-    width: 100%;
-    max-width: 1200px; /* corresponds to max height of 450px */
-    margin: 0 auto;
-}
-.bg-image btn{
-    position: absolute;
-    text-align: center;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    color: white;
-}
-.nav, .main {
-    background-color: #f6f6f6;
-    text-align: center;
 }
